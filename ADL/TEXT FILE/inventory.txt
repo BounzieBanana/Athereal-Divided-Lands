@@ -1,0 +1,20 @@
+| SR | SHINY S. R. Enara Horus #00S22:10
+| R | SHINY Space Ranger X #00S24:9
+| SSR | GALACTIC S. R. Voss Ignatius #00G20:10
+| SSR | SHINY Robert Reid #00S21:1
+| SR | S. R. Enara Horus #00022:11
+| R | Kaden #00017:10
+| C | Globo #00025:24
+| SSR | Robert Reid #00021:34
+| SSR | SHINY S. R. Voss Ignatius #00S20:10
+| SR | GALACTIC S. R. Enara Horus #00G22:9
+| SR | S. R. Eva Larsson #00023:11
+| R | Enara Horus #00016:13
+| C | Stellar Voyager MK II #00026:52
+| C | Student Y #00012:21
+| C | Student X #00011:16
+| SR | GALACTIC S. R. Eva Larsson #00G23:10
+| SR | SHINY S. R. Eva Larsson #00S23:10
+| SSR | SHINY Robert Reid:10
+| SSR | S. R. Voss Ignatius #00020:10
+| R | Space Ranger X #00024:21
